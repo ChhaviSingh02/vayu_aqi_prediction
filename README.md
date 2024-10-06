@@ -54,8 +54,8 @@ Created a comprehensive DataFrame that included city-wise AQI values over the en
 
 
 ## Libraries Used
-- numpy for numerical operations
-- pandas for data manipulation
-- matplotlib for visualization
-- seaborn for enhanced data visualizations
-- datetime for date manipulation
+- *numpy* for numerical operations
+- *pandas* for data manipulation
+- *matplotlib* for visualization
+- *seaborn* for enhanced data visualizations
+- *datetime* for date manipulation
