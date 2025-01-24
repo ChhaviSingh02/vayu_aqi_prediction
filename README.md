@@ -59,3 +59,6 @@ Created a comprehensive DataFrame that included city-wise AQI values over the en
 - *matplotlib* for visualization
 - *seaborn* for enhanced data visualizations
 - *datetime* for date manipulation
+
+## Research paper
+https://www.aqmd.gov/home/research/publications/50-years-of-progress
